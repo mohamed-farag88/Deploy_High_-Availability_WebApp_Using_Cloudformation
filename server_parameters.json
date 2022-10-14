@@ -1,0 +1,30 @@
+[
+    {
+        "ParameterKey": "EnvironmentName",
+        "ParameterValue": "Project2"
+    },
+    {
+        "ParameterKey": "InstanceType",
+        "ParameterValue": "t2.medium"
+    },
+    {
+        "ParameterKey": "InstanceRole",
+        "ParameterValue": "Project2S3ReadOnlyEC2"
+    },
+    {
+        "ParameterKey": "UbuntuImageID",
+        "ParameterValue": "ami-0ee23bfc74a881de5"
+    },
+    {
+        "ParameterKey": "SSHKeypair",
+        "ParameterValue": "mo.farag"
+    },
+    {
+        "ParameterKey": "BucketName",
+        "ParameterValue": "mfaragproject2webapp"
+    },
+    {
+        "ParameterKey": "HTMLIndexPrefix",
+        "ParameterValue": "index.html"
+    }
+  ]
